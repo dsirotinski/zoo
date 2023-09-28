@@ -1,0 +1,1 @@
+import{_ as o}from"./App-1d6c1f16.js";import{c as r,o as t}from"./app-2a75dbdf.js";import"./Admin-ac7cbed2.js";const m={__name:"Admin",props:{},setup(_){return(a,c)=>(t(),r(o))}};export{m as default};
